@@ -1,10 +1,4 @@
 ﻿using ConsoleApp1;
-using System.Collections;
-
-/*Program p1 = new Program();
-Program p2 = new Program();
-ConsoleUtil.Calc<string>(new string[] { "123" }, "123");
- */
 
 internal class Program
 {
